@@ -1,0 +1,10 @@
+.vs/
+[Bb]in/
+[Oo]bj/
+TareaJuego/bin/
+TareaJuego/obj/
+
+# Archivos del content pipeline de MonoGame
+*.mgcb.cache
+*.xnb
+
